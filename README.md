@@ -1,4 +1,4 @@
-# 🚀 CRUD User Project - PHINDER
+# 🚀 CRUD User Project 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8-orange" />
